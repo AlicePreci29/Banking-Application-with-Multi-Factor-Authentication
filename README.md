@@ -1,4 +1,3 @@
-
 # Multi-Factor Authentication & Fraud Detection
 
 A **banking web application** built with **React + Express.js + Firebase Auth + Azure**, featuring:
